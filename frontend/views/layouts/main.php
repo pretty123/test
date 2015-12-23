@@ -42,6 +42,7 @@ AppAsset::register($this);
         'label' => 'plug-in',
         'items' => [
         ['label' => 'velocity', 'url' => 'index.php?r=site/index'],
+        ['label' => 'christmas', 'url' => 'index.php?r=plug/christmas'],
         '<li class="divider"></li>',      
         ['label' => 'ueEditor', 'url' => 'index.php?r=plug/editor'],
         ],

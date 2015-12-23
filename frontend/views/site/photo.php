@@ -1,3 +1,6 @@
+<?php 
+use frontend\assets\AppAsset;
+?>
 <div class="container-a">
    <div class="box">
      <img src="imgs/back.jpg">
@@ -18,6 +21,19 @@
        <img src="imgs/pic4.jpg">
    </div>   
 </div>
+ <script>
+<?php 
+AppAsset::addScript($this,'js/velocity.min.js');
+AppAsset::addScript($this,'js/velocity.ui.min.js');
+AppAsset::addScript($this,'js/photo.js');
+?>   
+// public $js = [
+//               'js/velocity.min.js',
+//               'js/velocity.ui.min.js',
+//               'js/photo.js',
+//               ];
+//只在该视图中使用非全局的jui    
+</script>
 <script type="text/javascript">
 (function(){
 var p = {

@@ -5,4 +5,7 @@ class PlugController extends Controller{
 	public function actionEditor(){
 		return $this->render("index");
 	}
+	public function actionChristmas(){
+		return $this->render("christmas");
+	}
 }

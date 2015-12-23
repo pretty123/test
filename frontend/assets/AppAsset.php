@@ -21,11 +21,7 @@ class AppAsset extends AssetBundle
         'css/site.css',
         'css/photo.css',
     ];
-    public $js = [
-    'js/velocity.min.js',
-    'js/velocity.ui.min.js',
-    'js/photo.js',
-    ];
+   
     public $depends = [
         'yii\web\YiiAsset',
         'yii\bootstrap\BootstrapAsset',
