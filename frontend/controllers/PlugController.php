@@ -6,6 +6,7 @@ class PlugController extends Controller{
 		return $this->render("index");
 	}
 	public function actionChristmas(){
-		return $this->render("christmas");
+		//return $this->render("christmas");
+		return $this->render("audio");
 	}
 }
