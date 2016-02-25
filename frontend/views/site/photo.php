@@ -21,6 +21,7 @@ use frontend\assets\AppAsset;
        <img src="imgs/pic4.jpg">
    </div>   
 </div>
+<input type="date">时间
 <a target=blank href=tencent://message/?uin=203674576&Site=pretty&Menu=yes><img border="0" SRC=http://wpa.qq.com/pa?p=1:203674576:6 alt="显示的字符"></a>
 <img  style="CURSOR: pointer" onclick="javascript:window.open('http://b.qq.com/webc.htm?new=0&sid=820168613&o=qfy.link&q=7', '_blank', 'height=502, width=644,toolbar=no,scrollbars=no,menubar=no,status=no');"  border="0" SRC=http://wpa.qq.com/pa?p=1:820168613:1 alt="廊桥遗梦">
  <script>
