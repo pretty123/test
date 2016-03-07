@@ -17,23 +17,23 @@ $this->title = 'My Yii Application';
             <div class="col-lg-4">
                 <h2>我们看海去</h2>
 
-                <p>　我们看海去!
+                <p>　我们看海去!</p>
 
-　　蓝色的大海上，
+　　<p>蓝色的大海上，</p>
 
-　　扬着白色的帆。
+　　<p>扬着白色的帆。</p>
 
-　　金红的太阳，
+　　<p>金红的太阳，</p>
 
-　　从海上升起来，
+　　<p>从海上升起来，</p>
+<p>
+　　照到海面照到船头。</p>
 
-　　照到海面照到船头。
+　　<p>我们看海去!</p>
 
-　　我们看海去!
+　　<p>我们看海去!</p>
 
-　　我们看海去!</p>
-
-                <p><a class="btn btn-default" href="http://www.yiiframework.com/doc/">Yii Documentation &raquo;</a></p>
+                <p><a class="btn btn-default" href="#">音频 &raquo;</a></p>
             </div>
             <div class="col-lg-4">
                 <h2>Heading</h2>
